@@ -22,8 +22,6 @@ MUL – multiplication
 DIV – integer division (assume second number is never zero)
 
 ✨ Sample Input and Output:
-vbnet
-Copy
 Edit
 Input:  ADD 10 5  
 Output: 15
